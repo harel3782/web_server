@@ -3,10 +3,15 @@
     "email": "harel@harel",
     "username": "zzz",
     "password": "zzz"
-  }
+  },
   {
     "email": "harel@afik",
-    "username": "xxx",
-    "password": "xxx"
+    "username": "a",
+    "password": "a"
+  },
+  {
+    "email": "test@example.com",
+    "username": "testuser",
+    "password": "password123"
   }
 ]

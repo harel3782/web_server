@@ -1,0 +1,6 @@
+# MongoDB Atlas Connection
+# Replace <db_password> with your actual MongoDB Atlas password
+MONGODB_URI=mongodb+srv://nivivri1:ibcGtBTUgs76EISQ@cluster0.hpw44xe.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+# Server Port
+PORT=5000 
